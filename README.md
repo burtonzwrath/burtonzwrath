@@ -3,7 +3,7 @@
     <br/>
 
 <div align='center'>
-  <p style="font-size:30px"> I'm 👨🏻‍💻 Web Front-end Developer </p>
+  <p style="font-size:50px"> I'm 👨🏻‍💻 Web Front-end Developer </p>
      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> <br/>
 </div>
 
