@@ -2,13 +2,13 @@
   <br/>  
   <br/>
  <div align='center'>
-  <p> <b> <a href="https://www.linkedin.com/in/pavel-roshupkin/" target="_blank">My Linked </a> <a href="https://www.linkedin.com/in/pavel-roshupkin/" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a> </b> 👈 </p>
+  <p> <b> <a href="https://www.linkedin.com/in/pavel-roshupkin/" target="_blank">My  Linked </a> <a href="https://www.linkedin.com/in/pavel-roshupkin/" target="_blank">&nbsp <img height="30"  src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a> </b> 👈 </p>
      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> <br/>
   <p align="center">
 </p>
 </div>
 
-# <b>My tech stack</b>:
+# <b>My tech stack</b> :
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
