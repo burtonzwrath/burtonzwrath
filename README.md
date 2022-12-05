@@ -1,5 +1,6 @@
 # Hi, I'm Pavlo 👋. <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />   Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="34"/>GitHub Profile
 👨🏻‍💻 Web Front-end Developer
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 # 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
