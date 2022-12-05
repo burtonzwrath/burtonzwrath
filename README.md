@@ -44,4 +44,4 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=cd6799">
 </a>
 
- 📫 How to reach me: roshupkinpavel.s@gmail.com;
+ ### <h2> 📫 How to reach me: roshupkinpavel.s@gmail.com</h2>
