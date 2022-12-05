@@ -22,5 +22,5 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=cd6799">
 </a>
  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=materialui&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=cd6799">
 </a>
