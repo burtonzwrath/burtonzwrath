@@ -1,15 +1,14 @@
-# <div align='center'>Hi👋, my name is Pavlo.    Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="34"/>GitHub Profile </div>
+# <div align='center'>Hi👋, my name is Pavlo. I'm 👨🏻‍💻  Front-end Developer    <br/>    <br/>     Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="34"/>GitHub Profile </div>
   <br/>  
   <br/>
-  <p align="center"> 👨🏻‍💻 Web Front-end Developer 👨🏻‍💻   </p>  
  <div align='center'>
+  <p> <b> <a href="https://www.linkedin.com/in/pavel-roshupkin/" target="_blank">My Linked </a> <a href="https://www.linkedin.com/in/pavel-roshupkin/" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a> </b> 👈 </p>
      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> <br/>
   <p align="center">
-<a href="https://www.linkedin.com/in/pavel-roshupkin/" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 </div>
 
-# 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 
+# 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸:
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
