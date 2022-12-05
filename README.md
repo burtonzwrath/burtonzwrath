@@ -3,7 +3,7 @@
     <br/>
   <div style="display:flex; justify-content:center"> I'm 👨🏻‍💻 Web Front-end Developer </div> 
 
-<div >  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> </div> 
+<center><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> </center>  
 # 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
