@@ -1,9 +1,8 @@
 # <div align='center'>Hi👋, my name is Pavlo.    Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="34"/>GitHub Profile </div>
   <br/>  
     <br/>
-   <p style="color:blue;font-size:18px;">This is demo text</p> 
 <div align='center'>
-  <p style="font-size:50px;color:blue"> I'm 👨🏻‍💻 Web Front-end Developer </p>
+  <h2 style="text-decoration:none"> I'm 👨🏻‍💻 Web Front-end Developer </h2>
      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> <br/>
 </div>
 
