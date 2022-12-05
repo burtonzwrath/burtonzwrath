@@ -1,7 +1,7 @@
 # Hi👋, my name is Pavlo.    Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="34"/>GitHub Profile 
   <br/>  
     <br/>
-  <div style="text-align:center"> I'm 👨🏻‍💻 Web Front-end Developer </div> 
+  <div style="display:flex; justify-content:center"> I'm 👨🏻‍💻 Web Front-end Developer </div> 
 
 <div >  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> </div> 
 # 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 
