@@ -1,8 +1,8 @@
 # <div align='center'>Hi👋, my name is Pavlo.    Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="34"/>GitHub Profile </div>
   <br/>  
     <br/>
-#<div align='center'>
-  <p"> I'm 👨🏻‍💻 Web Front-end Developer </p>
+# <div align='center'>
+  <p> I'm 👨🏻‍💻 Web Front-end Developer </p>
      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> <br/>
 </div>
 
