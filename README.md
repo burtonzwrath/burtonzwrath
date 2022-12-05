@@ -1,9 +1,14 @@
 # <div align='center'>Hi👋, my name is Pavlo.    Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="34"/>GitHub Profile </div>
   <br/>  
   <br/>
-# <div align='center'>
-  <p> I'm 👨🏻‍💻 Web Front-end Developer </p> 
+  <p align="center"> I'm 👨🏻‍💻 Web Front-end Developer </p> 
+ <div align='center'>
      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> <br/>
+  <p> <p align="center">
+<a href="https://www.instagram.com/roshupkin_paha/" target="_blank"><img height="30" src="https://www.flaticon.com/free-icon/instagram_174855?k=1670245931619&log-in=google"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/8q058td4ynjeztfx5io86m5pt" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/visual-studio.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p></p>
 </div>
 
 # 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 
@@ -42,3 +47,4 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=cd6799">
 </a>
 
+ 📫 How to reach me: roshupkinpavel.s@gmail.com;
