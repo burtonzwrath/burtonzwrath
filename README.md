@@ -1,4 +1,4 @@
-# Hi, I'm Pavlo. Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="34"/>GitHub Profile
+# Hi, I'm Pavlo 👋 Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="34"/>GitHub Profile
 > 👨🏻‍💻 Web Front-end Developer
 # 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <p align="left">  
