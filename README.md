@@ -1,8 +1,9 @@
 # Hi👋, my name is Pavlo.    Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="34"/>GitHub Profile 
   <br/>  
     <br/>
-  <div style="display:flex; justify-content:center"> I'm 👨🏻‍💻 Web Front-end Developer </div> 
+
 <div align='center'>
+  <h2> I'm 👨🏻‍💻 Web Front-end Developer </h2>
      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> <br/>
 </div>
 
