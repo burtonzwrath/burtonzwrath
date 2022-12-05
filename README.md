@@ -2,7 +2,7 @@
   <br/>  
   <br/>
 # <div align='center'>
-   I'm 👨🏻‍💻 Web Front-end Developer 
+  <p> I'm 👨🏻‍💻 Web Front-end Developer </p> 
      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500"> <br/>
 </div>
 
